@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "GreenCycles"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-GreenCycles-34cd4405-44fd-408f-a813-a51ee55cb6fa;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
